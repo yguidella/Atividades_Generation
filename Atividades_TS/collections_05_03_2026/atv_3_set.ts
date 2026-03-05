@@ -6,3 +6,8 @@ for (let i = 0; i < 10; i++) {
     const num = readlinesync.questionInt("Digite um numero: ");
     numeros.add(num);
 }
+
+console.log("Listar dados no set:");
+for (const num of numeros){
+    console.log(num);
+}
