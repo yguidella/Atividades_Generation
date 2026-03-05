@@ -1,4 +1,4 @@
-const leia = require('readline-sync');
+import leia from 'readline-sync';
 
 let numero;
 
