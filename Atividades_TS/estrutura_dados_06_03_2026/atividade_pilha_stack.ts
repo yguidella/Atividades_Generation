@@ -46,9 +46,7 @@ do{
 
         default:
             console.log("Opcao Invalida!");
-
+            
     }
-
-
 
 } while (opcao !==0);
